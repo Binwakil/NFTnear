@@ -1,4 +1,4 @@
-prefix=/home/binwakili/NFTnear/integration-tests/target/debug/build/libz-sys-95efa659374076cd/out
+prefix=/home/binwakili/Blockchain/NearNFT/integration-tests/target/debug/build/libz-sys-95efa659374076cd/out
 exec_prefix=@exec_prefix@
 libdir=@libdir@
 sharedlibdir=@sharedlibdir@
