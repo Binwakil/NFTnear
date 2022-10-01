@@ -1,0 +1,12 @@
+/home/binwakili/NFTnear/integration-tests/target/debug/deps/xattr-e5f696cb7af82cc8.rmeta: /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/binwakili/NFTnear/integration-tests/target/debug/deps/libxattr-e5f696cb7af82cc8.rlib: /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/binwakili/NFTnear/integration-tests/target/debug/deps/xattr-e5f696cb7af82cc8.d: /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs:
+/home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs:
+/home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs:
+/home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs:
+/home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/home/binwakili/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs:
